@@ -24,3 +24,11 @@
 	* [Sketch App Rocks - Index of all Awesome Things Related to Sketch](http://sketchapp.rocks/)
 	* [Sketch App Sources](http://www.sketchappsources.com/)
 	* [Sketch Plugins](http://awesome-sket.ch/)
+
+### Prototyping
+* [Flinto - App Prototyping Tools for Design](https://www.flinto.com/)
+* [FramerJS - Prototyping Tool for Designing UI, Interaction and Animation](http://framerjs.com/)
+* [Resizer - Google Design](http://design.google.com/resizer/)
+* [Pixate - Mobile Interaction Design](http://www.pixate.com/)
+* [Principle - Animated Design](http://principleformac.com/)
+* [Principle Repo - Popular Principle designs shared by other designers](http://principlerepo.com/)

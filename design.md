@@ -1,5 +1,3 @@
-# Awesome Resources
-
 ### Design
 * [Facebook Design Resources](http://facebook.github.io/design/index.html)
 * [Google Design](https://design.google.com/)
