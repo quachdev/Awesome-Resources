@@ -20,6 +20,7 @@
 	* [Material Icons - Google Design](https://design.google.com/icons/)
 	* [The Noun Project](https://thenounproject.com/)
 * [Freebiesbug - Free Hand-Picked Resources for Designer](http://freebiesbug.com/)
+* [Freepik](http://www.freepik.com)
 * Sketch3
 	* [Sketch App Rocks - Index of all Awesome Things Related to Sketch](http://sketchapp.rocks/)
 	* [Sketch App Sources](http://www.sketchappsources.com/)
@@ -32,3 +33,12 @@
 * [Pixate - Mobile Interaction Design](http://www.pixate.com/)
 * [Principle - Animated Design](http://principleformac.com/)
 * [Principle Repo - Popular Principle designs shared by other designers](http://principlerepo.com/)
+
+### Stock Photos
+* [Cupcake](http://cupcake.nilssonlee.se/)
+* [Foodies Feed](https://foodiesfeed.com/)
+* [Life of Pix](http://www.lifeofpix.com) 
+* [Negative Space](http://negativespace.co/)
+* [Pexels](https://www.pexels.com/)
+* [Stock Snap](https://stocksnap.io/)
+* [Unsplash](https://unsplash.com/)
