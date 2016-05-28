@@ -1,10 +1,11 @@
 ### Design
 * [Facebook Design Resources](http://facebook.github.io/design/index.html)
 * [Google Design](https://design.google.com/)
+* [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
 * [UI8 Premium Assets](https://ui8.net/)
 * [The Pattern Library - Generate Cool Patterns](http://thepatternlibrary.com/)
 * Colours (I'm Canadian)
-	*  [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
+	* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
 	* [Brand Colors](http://brandcolors.net/)
 	* [Color Hunt](http://colorhunt.co/)
 	* [Coolors - Color Scheme Generator](https://coolors.co/)
