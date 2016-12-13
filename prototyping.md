@@ -5,3 +5,5 @@
 * [Pixate - Mobile Interaction Design](http://www.pixate.com/)
 * [Principle - Animated Design](http://principleformac.com/)
 * [Principle Repo - Popular Principle designs shared by other designers](http://principlerepo.com/)
+
+###### \*Premium/Paid

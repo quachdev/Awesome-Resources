@@ -17,10 +17,12 @@
 	* [IconStore - Free Icons](https://iconstore.co/)
 	* [Flaticon - Free Vector Icons](http://www.flaticon.com/)
 	* [Material Icons - Google Design](https://design.google.com/icons/)
-	* [The Noun Project](https://thenounproject.com/)
+	* [The Noun Project](https://thenounproject.com/)*
 * [Freebiesbug - Free Hand-Picked Resources for Designer](http://freebiesbug.com/)
 * Sketch3
 	* [Sketch App Rocks - Index of all Awesome Things Related to Sketch](http://sketchapp.rocks/)
 	* [Sketch App Sources](http://www.sketchappsources.com/)
 	* [Sketch Plugins](http://awesome-sket.ch/)
 	* [Sketch Repo](https://sketchrepo.com/)
+
+###### \*Premium/Paid

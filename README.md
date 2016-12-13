@@ -1,10 +1,12 @@
 # Awesome Resources
 
+## Developer/Design Assets
+---
 ### Design
 * [Facebook Design Resources](http://facebook.github.io/design/index.html)
 * [Google Design](https://design.google.com/)
 * [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/)
-* [UI8 Premium Assets](https://ui8.net/)
+* [UI8 Premium Assets](https://ui8.net/)*
 * [The Pattern Library - Generate Cool Patterns](http://thepatternlibrary.com/)
 * Colours (I'm Canadian)
 	* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)
@@ -44,3 +46,23 @@
 * [Pexels](https://www.pexels.com/)
 * [Stock Snap](https://stocksnap.io/)
 * [Unsplash](https://unsplash.com/)
+* [StockUnlimited](http://www.stockunlimited.com/)*
+
+## Interview Prep
+---
+### Algorithms
+* [Algortihm Visualizer](http://jasonpark.me/AlgorithmVisualizer/)
+* [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+* [Markov Chain visual explanation](http://setosa.io/ev/markov-chains/)
+
+### Coding Challenges
+* [CodeFights](https://codefights.com/)
+* [Coderbyte](http://coderbyte.com/)
+* [HackerRank](https://www.hackerrank.com/domains)
+* [InterviewBit](http://www.interviewbit.com/)
+* [LeetCode](https://leetcode.com/)
+* [Google Code Jam](https://code.google.com/codejam/contests.html)
+* [Pramp - Practice Coding Interviews for Free](https://www.pramp.com/)
+* [Project Euler](https://projecteuler.net/archives)
+
+###### \*Premium/Paid
