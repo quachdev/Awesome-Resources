@@ -7,6 +7,8 @@
 * [GitKraken](https://www.gitkraken.com/)*
 * [gitignore](https://www.gitignore.io/)
 
+* [Rainglow](https://rainglow.io)
+
 ## Design Assets
 ---
 ### Design
@@ -25,6 +27,8 @@
 	* [Material Design Color Palette](https://www.materialpalette.com/)
 	* [UI Gradients - Beautiful Gradients](http://uigradients.com/)
 	* [The Colorbook](https://colorbook.me)
+* Editing
+	* [PhotoPea](https://www.photopea.com)
 * Icons
 	* [Icons 8](https://icons8.com/)
 	* [IconStore - Free Icons](https://iconstore.co/)
@@ -42,12 +46,14 @@
 	* [Sketch Repo](https://sketchrepo.com/)
 
 ### Prototyping
-* [Flinto - App Prototyping Tools for Design](https://www.flinto.com/)
+* [Flinto - App Prototyping Tools for Design](https://www.flinto.com/)*
 * [FramerJS - Prototyping Tool for Designing UI, Interaction and Animation](http://framerjs.com/)
+* [Invision](https://www.invisionapp.com)*
 * [Resizer - Google Design](http://design.google.com/resizer/)
 * [Pixate - Mobile Interaction Design](http://www.pixate.com/)
-* [Principle - Animated Design](http://principleformac.com/)
+* [Principle - Animated Design](http://principleformac.com/)*
 * [Principle Repo - Popular Principle designs shared by other designers](http://principlerepo.com/)
+* [Sketch App](https://www.sketchapp.com)*
 
 ### Stock Photos
 * [Cupcake](http://cupcake.nilssonlee.se/)

@@ -14,6 +14,8 @@
 	* [Material Design Color Palette](https://www.materialpalette.com/)
 	* [UI Gradients - Beautiful Gradients](http://uigradients.com/)
 	* [The Colorbook](https://colorbook.me)
+* Editing
+	* [PhotoPea](https://www.photopea.com)
 * Icons
 	* [Icons 8](https://icons8.com/)
 	* [IconStore - Free Icons](https://iconstore.co/)
